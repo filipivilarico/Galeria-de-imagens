@@ -7,7 +7,7 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-image:url(./img/background.jpg);
+    background-image:url(./img/jm9.jpg);
     display: flex;
     flex-direction: column;
 }
@@ -18,7 +18,7 @@ header{
     align-items: center;
 }
 h1{
-    color: white;
+    color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 main{
